@@ -1,3 +1,7 @@
+```
+I'm working on ok60:autoscatto (ok60 ANSI with my ersonal modificationp), for the full updated fw please check the original repo.  
+```
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
