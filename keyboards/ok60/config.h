@@ -24,9 +24,10 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
 #define VENDOR_ID       0xFEED
 #define PRODUCT_ID      0x6060
 #define DEVICE_VER      0x0001
-#define MANUFACTURER    OK60
-#define PRODUCT         OK60
-#define DESCRIPTION     qmk keyboard firmware for OK60
+#define MANUFACTURER    autoscatto
+#define PRODUCT         keyboard
+#define DESCRIPTION     discreta_bega
+
 
 /* key matrix size */
 #define MATRIX_ROWS 5
@@ -80,5 +81,5 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
 #define RGBLIGHT_HUE_STEP 8
 #define RGBLIGHT_SAT_STEP 8
 #define RGBLIGHT_VAL_STEP 8
-
+#define ALWAYS_DEBUG
 #endif

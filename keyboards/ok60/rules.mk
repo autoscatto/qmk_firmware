@@ -62,5 +62,5 @@ RGBLIGHT_ENABLE = yes  # Enable the RGB backlight
 # MIDI_ENABLE = YES			# MIDI controls
 # UNICODE_ENABLE = YES		# Unicode
 # BLUETOOTH_ENABLE = yes	# Enable Bluetooth with the Adafruit EZ-Key HID
-
+AUDIO_ENABLE ?= no
 LAYOUTS = 60_ansi 60_iso
